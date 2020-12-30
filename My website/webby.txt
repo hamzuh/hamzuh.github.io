@@ -6,10 +6,16 @@ contact dropdown menu to email me, has links to social media and linkedin and li
 
 my projects page to show pictures, short explanations and links to github
 
-same colour word as background easter egg ("Hey sneaky"), hover over outline
-
 WANTS:
 
 scale website with size, when too small keep position fixed and use scrollbar
+
+same colour word as background easter egg ("Hey sneaky"), hover over outline
+
+add photo on about me section
+
+flesh out pages with writing
+
+add more art
 
 wipeout style? the design republic
