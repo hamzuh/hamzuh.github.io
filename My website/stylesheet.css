@@ -3,6 +3,10 @@ body {
    background-color: #e93e37;
 }
 
+a {
+   transition: all 0.1s;
+}
+
 a:link, a:visited, a:active {
    color: white;
    text-decoration: none;
@@ -98,6 +102,28 @@ a.gitlink {
    font-style: italic;
 }
 
+.aboutcenter {
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   text-align: center;
+   font-size: 35px;
+   font-size: calc(24px + 0.75vw);
+   white-space: nowrap;
+}
+
+.aboutdetails {
+   margin-top: 20px;
+   width: 700px;
+   height: 400px;
+   white-space: normal;
+   text-align: left;
+   font-size: 22px;
+}
+
 @media screen and (max-height: 240px) {
    .center, .portfoliocenter {
       top: 120px;
@@ -107,5 +133,11 @@ a.gitlink {
 @media screen and (max-height: 260px) {
    .contactcenter {
       top: 135px;
+   }
+}
+
+@media screen and (max-height: 610px) {
+   .aboutcenter {
+      top: 295px;
    }
 }
