@@ -1,63 +1,70 @@
-front page with links to all bits at the top and bold design
+I intend for this to be my main website! I'll do my level best to maintain it, for myself and for you.
 
-about me page with cv included as a link on my name
+##WHAT DO I WANT IT TO BE?
 
-contact dropdown menu to email me, has links to social media and linkedin and live tweet feed and SOUNDCLOUD !!
+A place to put all the stuff I find interesting, so I can share it with the rest of the world. I want it to be an archive for all my creative work and thoughts while being a good exercise web-design-wise. It's also something I can stay involved in and keep my mind occupied with over time.
 
-my projects page to show pictures, short explanations and links to github
+The original idea was for it to be two-sided, one for professional work and one for fun stuff. We'll see where it goes, but to begin I'll be setting up the general structure.
 
-WANTS:
+##WEBSITE STRUCTURE:
 
-make a new "center" div, move all common elements into there. make a separate div with top, etc
+- splash page index with links to all bits at the top and bold design
 
-scale website with size, when too small keep position fixed and use scrollbar
+- about me page with cv included as a link on my name
 
-same colour word as background easter egg ("Hey sneaky"), hover over outline
+- contact dropdown menu to email me, has links to social media and linkedin and live tweet feed and SOUNDCLOUD !!
 
-add photo on about me section
+- my projects page to show pictures, short explanations and links to github
 
-flesh out pages with writing
+##TO DO:
 
-add more art
+- [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
 
-wipeout style? the design republic
+- [x] make website scale with size
 
-replace druk font
+- [x] same colour word as background easter egg ("Hey sneaky"), hover over outline
 
-front page with links to all bits at the top and bold design (maybe massive text see-thru background?)
+- [x] add photo on about me section
 
-about me page with picture frames left and right of photos of topics
+- [x] flesh out pages with writing
 
-contact dropdown menu to email me, has links to SOUNDCLOUD !! and live tweet feed
+- [x] add more art
 
-my projects page to show pictures, short explanations
+- [x] wipeout style? the design republic
 
+- [x] consider different fonts
 
-WANTS:
+- [x] front page with links to all bits at the top and bold design (maybe massive text see-thru background?)
 
-add message scroller random on refresh
+- [x] about me page with picture frames left and right of photos of topics
 
-add art
+- [x] contact dropdown menu to email me, has links to SOUNDCLOUD !! and live tweet feed
 
-add music
+- [x] my projects page to show pictures, short explanations
 
-add recommended pages
+- [x] add message scroller random on refresh
 
-add bloggy bit
+- [x] add art
 
-flesh out pages with writing
+- [x] add music
 
-need to find a way to keep people coming back
+- [x] add recommended pages
 
-make a new "center" div, move all common elements into there. make a separate div with top, etc
+- [x] add bloggy bit
 
-fix  when too small and scrollbar, fix mobile squish
+- [x] flesh out pages with writing
 
-add easter eggs
+- [x] need to find a way to keep people coming back
 
-add baby photo on about me section
+- [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
 
-TOPICS:
+- [x] fix  when too small and scrollbar, fix mobile squish
+
+- [x] add easter eggs
+
+- [x] add baby photo on about me section
+
+POTENTIAL TOPICS:
 
 wrong opinions? liking something no one else likes. validation or no. just let it all hang out.
 
