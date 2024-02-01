@@ -1,10 +1,8 @@
 I intend for this to be my main website! I'll do my level best to maintain it, for myself and for you.
 
-##WHAT DO I WANT IT TO BE?
+It's a place to put all the stuff I find interesting, so I can share it with the rest of the world. It's an archive for all my creative work and thoughts while being a good exercise web-design-wise. It's also something I can stay involved in and keep my mind occupied with over time.
 
-A place to put all the stuff I find interesting, so I can share it with the rest of the world. I want it to be an archive for all my creative work and thoughts while being a good exercise web-design-wise. It's also something I can stay involved in and keep my mind occupied with over time.
-
-The original idea was for it to be two-sided, one for professional work and one for fun stuff. We'll see where it goes, but to begin I'll be setting up the general structure.
+Feel free to poke around and inspect element if you find anything interesting. All code is written by me unless stated otherwise.
 
 ##WEBSITE STRUCTURE:
 
