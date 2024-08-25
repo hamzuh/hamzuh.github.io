@@ -59,6 +59,11 @@ a.contact {
    white-space: nowrap;
 }
 
+.mid {
+   float: left;
+   padding: 20px;
+}
+
 a.hamzalatif {
    text-decoration: underline;
    text-decoration-thickness: 2px;
@@ -103,7 +108,8 @@ a.gitlink {
 }
 
 .aboutcenter {
-   margin: 0;
+   margin: 0px;
+   height: 600px;
    position: absolute;
    top: 50%;
    left: 50%;
@@ -117,8 +123,7 @@ a.gitlink {
 
 .aboutdetails {
    margin-top: 20px;
-   width: 700px;
-   height: 400px;
+   width: 900px;
    white-space: normal;
    text-align: left;
    font-size: 22px;
@@ -140,4 +145,39 @@ a.gitlink {
    .aboutcenter {
       top: 295px;
    }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 24%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }

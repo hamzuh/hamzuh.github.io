@@ -16,9 +16,22 @@ Feel free to poke around and inspect element if you find anything interesting. A
 
 ##TO DO:
 
+- [x] take off cv and replace with message
+
+- [x] add footer message at the end of art page
+
+- [x] study and add javascript:
+	buttons on the portfolio page for different sections:
+		photography
+		art
+		video
+		animation, etc.
+
+
 - [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
 
-- [x] make website scale with size
+- [x] reform website to scale with size:
+	use flex in css
 
 - [x] same colour word as background easter egg ("Hey sneaky"), hover over outline
 
@@ -66,4 +79,4 @@ POTENTIAL TOPICS:
 
 wrong opinions? liking something no one else likes. validation or no. just let it all hang out.
 
-not finishing thi
+finishing this!
