@@ -16,8 +16,6 @@ Feel free to poke around and inspect element if you find anything interesting. A
 
 ##TO DO:
 
-- [x] take off cv and replace with message
-
 - [x] add footer message at the end of art page
 
 - [x] study and add javascript:
@@ -38,8 +36,6 @@ Feel free to poke around and inspect element if you find anything interesting. A
 - [x] add photo on about me section
 
 - [x] flesh out pages with writing
-
-- [x] add more art
 
 - [x] wipeout style? the design republic
 
