@@ -16,7 +16,19 @@ Feel free to poke around and inspect element if you find anything interesting. A
 
 ##TO DO:
 
+- [x] add pointer to about page
+
+- [x] add little icons
+
+- [x] consider UX
+
+- [x] add github link
+
+- [x] change video link to videos page
+
 - [x] add footer message at the end of art page
+
+- [x] dropdown projects button
 
 - [x] study and add javascript:
 	buttons on the portfolio page for different sections:
@@ -24,7 +36,6 @@ Feel free to poke around and inspect element if you find anything interesting. A
 		art
 		video
 		animation, etc.
-
 
 - [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
 
