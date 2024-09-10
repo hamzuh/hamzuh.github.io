@@ -16,17 +16,9 @@ Feel free to poke around and inspect element if you find anything interesting. A
 
 ##TO DO:
 
-- [x] add pointer to about page
-
-- [x] add little icons
-
 - [x] consider UX
 
-- [x] add github link
-
 - [x] change video link to videos page
-
-- [x] add footer message at the end of art page
 
 - [x] dropdown projects button
 

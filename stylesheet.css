@@ -1,4 +1,8 @@
 
+html {
+   scroll-behavior: smooth;
+}
+
 body {
    background-color: #e93e37;
 }
@@ -64,6 +68,13 @@ a.contact {
    padding: 20px;
 }
 
+.footer {
+   position: relative;     
+   text-align: center;    
+   bottom: 0px; 
+   width: 100%;
+}
+
 a.hamzalatif {
    text-decoration: underline;
    text-decoration-thickness: 2px;
@@ -107,6 +118,13 @@ a.gitlink {
    font-style: italic;
 }
 
+.scrollimg{
+   display: block;
+   margin-left: 910px;
+   margin-right: 960px;
+   margin-top: 800px;
+}
+
 .aboutcenter {
    margin: 0px;
    height: 600px;
@@ -117,6 +135,16 @@ a.gitlink {
    transform: translate(-50%, -50%);
    text-align: center;
    font-size: 35px;
+   font-size: calc(24px + 0.75vw);
+   white-space: nowrap;
+}
+
+.about {
+   margin-top: 700px;
+   position: absolute;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
    font-size: calc(24px + 0.75vw);
    white-space: nowrap;
 }
