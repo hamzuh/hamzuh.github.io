@@ -109,8 +109,8 @@ a.gitlink {
 
 .scrollimg{
    display: block;
-   margin-left: 910px;
-   margin-right: 960px;
+   position: relative;
+   left: 48%;
    margin-top: 800px;
 }
 
