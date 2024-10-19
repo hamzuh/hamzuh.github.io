@@ -3,6 +3,11 @@ html {
    scroll-behavior: smooth;
 }
 
+@font-face {
+   font-family: Druk;
+   src: url(Fonts/Druk Wide Bold.ttf);
+}
+
 body {
    background-color: #e93e37;
 }
@@ -25,7 +30,7 @@ a:link, a:visited, a:active {
 
 .text {
    color: white;
-   font-family: "Druk";
+   font-family: Druk;
    text-shadow: 4px 4px #000000;
 }
 

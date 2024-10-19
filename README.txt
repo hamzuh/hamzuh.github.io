@@ -4,7 +4,17 @@ It's a place to put all the stuff I find interesting, so I can share it with the
 
 Feel free to poke around and inspect element if you find anything interesting. All code is written by me unless stated otherwise.
 
+inspo:
+monome
+the designers republic
+visually sparse, information dense (thick chunky and meaningful)
+confident design
+
 ##WEBSITE STRUCTURE:
+
+- grey splash page with clickable fat coloured text for sections
+	when text clicked, whole page becomes that colour
+	new page fills the whitespace on the right
 
 - splash page index with links to all bits at the top and bold design
 
@@ -16,9 +26,9 @@ Feel free to poke around and inspect element if you find anything interesting. A
 
 ##TO DO:
 
-- [x] consider UX
+- [x] figure out muted colour scheme
 
-- [x] change video link to videos page
+- [x] consider UX
 
 - [x] dropdown projects button
 
