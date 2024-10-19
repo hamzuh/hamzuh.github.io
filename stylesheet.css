@@ -4,8 +4,8 @@ html {
 }
 
 @font-face {
-   font-family: Druk;
-   src: url(Fonts/Druk Wide Bold.ttf);
+   font-family: Roboto;
+   src: url(Fonts/Roboto-Black.ttf);
 }
 
 body {
@@ -30,7 +30,7 @@ a:link, a:visited, a:active {
 
 .text {
    color: white;
-   font-family: Verdana;
+   font-family: Roboto;
    text-shadow: 4px 4px #000000;
 }
 
@@ -127,7 +127,7 @@ a.gitlink {
 }
 
 .about {
-   margin-top: 700px;
+   margin-top: 1300px;
    position: absolute;
    left: 50%;
    transform: translate(-50%, -50%);
