@@ -4,8 +4,8 @@ html {
 }
 
 @font-face {
-   font-family: Druk;
-   src: url(Fonts/Druk Wide Bold.ttf);
+   font-family: Ubuntu;
+   src: url(Fonts/UbuntuSansMono-VariableFont_wght.ttf);
 }
 
 body {
@@ -30,8 +30,9 @@ a:link, a:visited, a:active {
 
 .text {
    color: white;
-   font-family: Druk;
-   text-shadow: 4px 4px #000000;
+   font-family: Ubuntu;
+   font-weight: 500;
+   text-shadow: 3px 3px #000000;
 }
 
 nav.topbar {
