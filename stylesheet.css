@@ -116,15 +116,11 @@ a.gitlink {
 }
 
 .aboutcenter {
-   margin: 0px;
-   height: 600px;
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
+   margin: auto;
+   padding-top: 80px;
+   width: 70%;
    text-align: center;
    font-size: calc(24px + 0.75vw);
-   white-space: nowrap;
 }
 
 .about {
@@ -138,8 +134,7 @@ a.gitlink {
 
 .aboutdetails {
    margin-top: 20px;
-   white-space: normal;
-   font-size: 22px;
+   font-size: calc(10px + 0.75vw);
 }
 
 @media screen and (max-height: 240px) {
