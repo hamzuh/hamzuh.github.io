@@ -86,6 +86,4 @@ confident design
 
 POTENTIAL TOPICS:
 
-wrong opinions? liking something no one else likes. validation or no. just let it all hang out.
-
-finishing this!
+ Nosferatu review
