@@ -4,12 +4,12 @@ html {
 }
 
 @font-face {
-   font-family: Ubuntu;
-   src: url(Fonts/UbuntuSansMono-VariableFont_wght.ttf);
+   font-family: Franklin;
+   src: url(Fonts/LibreFranklin-VariableFont_wght.ttf);
 }
 
 body {
-   background-color: #e93e37;
+   background-color: #FFFFFF;
 }
 
 a {
@@ -17,33 +17,39 @@ a {
 }
 
 a:link, a:visited, a:active {
-   color: white;
+   color: black;
    text-decoration: none;
 }
 
 @supports (-webkit-text-stroke: 1px black) {
    a:hover {
-      -webkit-text-stroke: 1px black;
       -webkit-text-fill-color: #e93e37;
    }
 }
 
 .text {
-   color: white;
-   font-family: Ubuntu;
-   font-weight: 500;
-   text-shadow: 3px 3px #000000;
+   color: black;
+   font-family: Franklin;
+   font-weight: 300;
 }
 
+/* navigation bar */
+
 nav.topbar {
-   padding-top: 20px;
-   font-size: 20px;
-   font-size: calc(13px + 0.45vw);
+   padding-top: 15px;
+   font-size: calc(10px + 0.5vw);
+   width: 80%;
+   margin: auto;
+   height: 45px;
+   border-bottom: 4px solid black;
 }
 
 a.contact {
    margin-left: 30px;
-   margin-left: 3vw
+}
+
+.selected {
+   font-weight: 500;
 }
 
 .leftalign {
@@ -55,6 +61,8 @@ a.contact {
    padding-right: 30px;
    float: right;
 }
+
+/* rest of it */
 
 .center {
    margin: 0;
@@ -117,8 +125,8 @@ a.gitlink {
 
 .aboutcenter {
    margin: auto;
-   padding-top: 80px;
-   width: 70%;
+   padding-top: 60px;
+   width: 80%;
    text-align: center;
    font-size: calc(24px + 0.75vw);
 }
