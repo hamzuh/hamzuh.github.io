@@ -5,7 +5,9 @@ It's a place to put all the stuff I find interesting, so I can share it with the
 Feel free to poke around and inspect element if you find anything interesting. All code is written by me unless stated otherwise.
 
 inspo:
+elektronauts
 monome
+llllllll.co
 the designers republic
 visually sparse, information dense (thick chunky and meaningful)
 confident design
@@ -18,7 +20,7 @@ confident design
 
 - splash page index with links to all bits at the top and bold design
 
-- about me page with cv included as a link on my name
+- about me page
 
 - contact dropdown menu to email me, has links to social media and linkedin and live tweet feed and SOUNDCLOUD !!
 
@@ -59,13 +61,7 @@ confident design
 		video
 		animation, etc.
 
-- [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
-
 - [x] check website scaling
-
-- [x] add photo on about me section
-
-- [x] flesh out pages with writing
 
 - [x] wipeout style? the design republic
 
@@ -73,26 +69,12 @@ confident design
 
 - [x] my projects page to show pictures, short explanations
 
-- [x] add message scroller random on refresh
-
 - [x] add art
 
 - [x] add music
 
-- [x] add bloggy bit
+- [x] add blog
 
-- [x] flesh out pages with writing
-
-- [x] need to find a way to keep people coming back
-
-- [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
-
-- [x] fix  when too small and scrollbar, fix mobile squish
-
-- [x] add easter eggs
-
-- [x] add baby photo on about me section
-
-POTENTIAL TOPICS:
+BLOG TOPICS:
 
  Nosferatu review
