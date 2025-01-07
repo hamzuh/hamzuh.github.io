@@ -36,7 +36,7 @@ a:link, a:visited, a:active {
 /* navigation bar */
 
 nav.topbar {
-   font-size: calc(10px + 0.5vw);
+   font-size: calc(13.6px + 0.25vw);
    width: 80%;
    margin: auto;
    height: 60px;
@@ -72,6 +72,24 @@ nav.topbar {
 .home {
    padding-top: 15px;
 }
+
+/* for phone screens */
+
+@media screen and (max-width: 600px) {
+   nav.topbar {
+      width: 100%;
+   }
+   .home {
+      display: none;
+   }
+   .leftalign {
+      padding-left: 10px;
+   }
+   .rightalign {
+      padding-right: 10px;
+   }
+}
+
 /* rest of it */
 
 .center {
@@ -95,7 +113,7 @@ nav.topbar {
    text-align: center;    
    bottom: 0px; 
    width: 100%;
-   font-size: calc(5px + 0.75vw);
+   font-size: calc(8.6px + 0.5vw);
 }
 
 a.hamzalatif {
@@ -136,6 +154,7 @@ a.gitlink {
 .aboutcenter {
    margin: auto;
    padding-top: 60px;
+   padding-bottom: 60px;
    width: 80%;
    text-align: center;
    font-size: calc(24px + 0.75vw);
@@ -152,7 +171,7 @@ a.gitlink {
 
 .aboutdetails {
    margin-top: 20px;
-   font-size: calc(10px + 0.75vw);
+   font-size: calc(13.6px + 0.25vw);
 }
 
 @media screen and (max-height: 240px) {
@@ -212,7 +231,6 @@ a.gitlink {
    background-color: #333;
    overflow: auto;
    margin: auto;
-   margin-top: 100px;
    white-space: nowrap;
    width: 80%;
    padding: 10px;
