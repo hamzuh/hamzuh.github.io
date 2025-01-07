@@ -75,7 +75,7 @@ nav.topbar {
 
 /* for phone screens */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
    nav.topbar {
       width: 100%;
       height: 45px;
@@ -131,17 +131,6 @@ a.hamzalatif:hover {
    text-decoration: none;
 }
 
-.contactcenter {
-   margin: 0;
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   text-align: center;
-   font-size: calc(24px + 0.75vw);
-   white-space: nowrap;
-}
-
 address.git {
    font-style: normal;
 }
@@ -166,6 +155,23 @@ a.gitlink {
    font-size: calc(24px + 0.75vw);
 }
 
+.contactcenter {
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+   font-size: calc(24px + 0.75vw);
+   white-space: nowrap;
+}
+
+@media screen and (max-height: 400px) {
+   .contactcenter {
+      top: 200px;
+   }
+}
+
 .about {
    margin-top: 1500px;
    position: absolute;
@@ -180,23 +186,7 @@ a.gitlink {
    font-size: calc(13.6px + 0.25vw);
 }
 
-@media screen and (max-height: 240px) {
-   .center {
-      top: 120px;
-   }
-}
-
-@media screen and (max-height: 260px) {
-   .contactcenter {
-      top: 135px;
-   }
-}
-
-@media screen and (max-height: 610px) {
-   .aboutcenter {
-      top: 295px;
-   }
-}
+/* art page */
 
 .row {
   display: flex;

@@ -26,11 +26,27 @@ confident design
 
 ##TO DO:
 
+- [x] create one "center" class, and extend all others off it
+
+- [x] use maximum width instead of percentage?
+
+- [x] edit navigation bar to be fixed on top and fullscreen on mobile
+
+- [x] fix contacts page on landscape mobile
+
+- [x] change and polish logo
+
+- [x] cool png contacts receipt picture / render with clickable / red marker circled links
+
+- [x] try adding contacts links as a black footer
+
+- [x] remove and replace margins, fit the page to 75% of original width to fit 4:3
+
 - [x] retake photos of drawings
 
-- [x] optimise layout and code
+- [x] change landing art and arrangement
 
-- [x] figure out muted colour scheme
+- [x] optimise layout and code
 
 - [x] consider UX
 
