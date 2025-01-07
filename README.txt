@@ -26,6 +26,8 @@ confident design
 
 ##TO DO:
 
+- [x] FIX LOGO FITTING!!!
+
 - [x] figure out muted colour scheme
 
 - [x] consider UX
