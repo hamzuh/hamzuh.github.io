@@ -26,7 +26,9 @@ confident design
 
 ##TO DO:
 
-- [x] FIX LOGO FITTING!!!
+- [x] retake photos of drawings
+
+- [x] optimise layout and code
 
 - [x] figure out muted colour scheme
 
@@ -43,10 +45,7 @@ confident design
 
 - [x] make a new "center" div, move all common elements into there. make a separate div with top, etc
 
-- [x] reform website to scale with size:
-	use flex in css
-
-- [x] same colour word as background easter egg ("Hey sneaky"), hover over outline
+- [x] check website scaling
 
 - [x] add photo on about me section
 
@@ -54,13 +53,7 @@ confident design
 
 - [x] wipeout style? the design republic
 
-- [x] consider different fonts
-
-- [x] front page with links to all bits at the top and bold design (maybe massive text see-thru background?)
-
 - [x] about me page with picture frames left and right of photos of topics
-
-- [x] contact dropdown menu to email me, has links to SOUNDCLOUD !! and live tweet feed
 
 - [x] my projects page to show pictures, short explanations
 
@@ -69,8 +62,6 @@ confident design
 - [x] add art
 
 - [x] add music
-
-- [x] add recommended pages
 
 - [x] add bloggy bit
 
