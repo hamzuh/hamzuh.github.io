@@ -28,15 +28,16 @@ confident design
 
 ##TO DO:
 
+- [x] fix "about me" page text sizing
+
+- [x] keep working on logo ideas
+
 - [x] create one "center" class, and extend all others off it
 
 - [x] use maximum width instead of percentage?
+	study reactive page sizing (llllllll.co, elektronauts)
 
 - [x] edit navigation bar to be fixed on top and fullscreen on mobile
-
-- [x] fix contacts page on landscape mobile
-
-- [x] change and polish logo
 
 - [x] cool png contacts receipt picture / render with clickable / red marker circled links
 
@@ -46,7 +47,9 @@ confident design
 
 - [x] retake photos of drawings
 
-- [x] change landing art and arrangement
+- [x] compress image files
+
+- [x] change home page art and rearrange
 
 - [x] optimise layout and code
 
@@ -68,10 +71,6 @@ confident design
 - [x] about me page with picture frames left and right of photos of topics
 
 - [x] my projects page to show pictures, short explanations
-
-- [x] add art
-
-- [x] add music
 
 - [x] add blog
 
