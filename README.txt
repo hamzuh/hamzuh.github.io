@@ -37,7 +37,8 @@ confident design
 - [x] use maximum width instead of percentage?
 	study reactive page sizing (llllllll.co, elektronauts)
 
-- [x] edit navigation bar to be fixed on top and fullscreen on mobile
+- [x] edit navigation bar to be fixed on top and fullscreen on mobile, so you can access pages at all times
+	remove page margin when screen is small
 
 - [x] cool png contacts receipt picture / render with clickable / red marker circled links
 
@@ -48,8 +49,6 @@ confident design
 - [x] retake photos of drawings
 
 - [x] compress image files
-
-- [x] change home page art and rearrange
 
 - [x] optimise layout and code
 

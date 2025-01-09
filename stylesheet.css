@@ -39,6 +39,7 @@ nav.topbar {
    margin: auto;
    height: 60px;
    border-bottom: 4px solid black;
+   background-color: #FFFFFF;
 }
 
 .contact {
