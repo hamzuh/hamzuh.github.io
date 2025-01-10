@@ -28,29 +28,24 @@ confident design
 
 ##TO DO:
 
+- [x] fix CSS transitions to not apply to sizing
+
+- [x] REALLY optimise layout and code
+	compress image files
+	create one "center" class, and extend all others off it
+	test on more devices
+	study responsive page sizing (llllllll.co, elektronauts), use rem?
+	make formatting more consistent, fix janky margin edit, group main section as "content"
+
 - [x] fix "about me" page text sizing
 
 - [x] keep working on logo ideas
 
-- [x] create one "center" class, and extend all others off it
-
-- [x] use maximum width instead of percentage?
-	study reactive page sizing (llllllll.co, elektronauts)
-
-- [x] edit navigation bar to be fixed on top and fullscreen on mobile, so you can access pages at all times
-	remove page margin when screen is small
-
 - [x] cool png contacts receipt picture / render with clickable / red marker circled links
 
-- [x] try adding contacts links as a black footer
-
-- [x] remove and replace margins, fit the page to 75% of original width to fit 4:3
+- [x] try adding contacts links as a black footer with icons
 
 - [x] retake photos of drawings
-
-- [x] compress image files
-
-- [x] optimise layout and code
 
 - [x] consider UX
 
@@ -62,8 +57,6 @@ confident design
 		art
 		video
 		animation, etc.
-
-- [x] check website scaling
 
 - [x] wipeout style? the design republic
 
