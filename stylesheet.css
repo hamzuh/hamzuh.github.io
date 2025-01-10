@@ -10,6 +10,7 @@ html {
 
 body {
    background-color: #FFFFFF;
+   margin-top: 0;
 }
 
 a {
@@ -34,9 +35,10 @@ a:hover {
 /* navigation bar */
 
 nav.topbar {
-   font-size: calc(13.6px + 0.25vw);
-   width: 80%;
+   font-size: 17.2px;
+   max-width: 1110px;
    margin: auto;
+   padding-top: 8px;
    height: 60px;
    border-bottom: 4px solid black;
    background-color: #FFFFFF;
@@ -76,9 +78,15 @@ nav.topbar {
 
 @media screen and (max-width: 630px) {
 
+   body {
+      margin: 0;
+      margin-top: 45px;
+   }
    nav.topbar {
       width: 100%;
       height: 45px;
+      position: fixed;
+      top: 0;
    }
 
    .logo {
@@ -96,7 +104,16 @@ nav.topbar {
 
    .rightalign {
       padding-top: 8px;
-      padding-right: 10px;
+      padding-right: 18px;
+   }
+
+   .contact {
+      margin-left: 20px;
+   }
+
+   .content {
+      margin-left: 8px;
+      margin-right: 8px;
    }
 }
 
@@ -155,7 +172,7 @@ a.gitlink {
    margin: auto;
    padding-top: 60px;
    padding-bottom: 60px;
-   width: 80%;
+   max-width: 1110px;
    text-align: center;
    font-size: calc(24px + 0.75vw);
 }
@@ -233,7 +250,7 @@ a.gitlink {
    overflow: auto;
    margin: auto;
    white-space: nowrap;
-   width: 80%;
+   max-width: 1110px;
    padding: 10px;
 }
 
