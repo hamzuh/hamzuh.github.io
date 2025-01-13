@@ -32,14 +32,19 @@ confident design
 
 - [x] REALLY optimise layout and code
 	compress image files
+		use imageoptim on mac
 	create one "center" class, and extend all others off it
 	test on more devices
 	study responsive page sizing (llllllll.co, elektronauts), use rem?
 	make formatting more consistent, fix janky margin edit, group main section as "content"
+	use breakpoints to fit content at different sizes
+		1440px screen makes navbar 1110px
+		1920px screen makes navbar 1440px
 
 - [x] fix "about me" page text sizing
 
 - [x] keep working on logo ideas
+	change logo to .svg
 
 - [x] cool png contacts receipt picture / render with clickable / red marker circled links
 
