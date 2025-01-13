@@ -204,8 +204,8 @@ a.gitlink {
 }
 
 .aboutdetails {
-   margin-top: 20px;
-   font-size: calc(13.6px + 0.25vw);
+   margin: 8px;
+   font-size: calc(14px + 0.75vw);
 }
 
 /* art page */
